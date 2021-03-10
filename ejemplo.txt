@@ -2,4 +2,8 @@ Practicando git
 Agregando un titulo
 
 Testeando  git y las ramas, sabemos que las ramas son como universos paralelos
+<<<<<<< HEAD
 intentare actualizar el main
+=======
+yA ESTAMOS PRACTICANDO CON GITHUB
+>>>>>>> 9ddea2049ca2dbd6ac8cb72841c6c0ae611b87d9
